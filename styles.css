@@ -1,0 +1,43 @@
+h1, h2,p {
+	font-family: sans-serif;
+	color: white;
+}
+
+.description {
+	margin: 140px 8% 0 8%;
+	text-align: center;
+	font-size: 2rem;
+}
+
+.bg-img {
+	background-image: url('summonersrift.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.wiget {
+	display: inline-block;
+	padding-bottom: 400px;
+}
+
+#info {
+	text-align: center;
+}
+
+.disc-image {
+	float: left;
+	height: 128px;
+	margin: 0 auto 0 auto;
+}
+
+.disc2 {
+	width: 100px;
+	min-width: 50%;
+	max-width: 100%;
+	margin: 0 auto 0 auto;
+	padding-bottom: 400px;
+}
+.disc2-text {
+	padding-top:20px;
+	margin: 0 auto 0 auto;
+}
